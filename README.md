@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ewerton Ricardo</h1>
   <p> <img src="https://komarev.com/ghpvc/?username=EwertonRicardo&color=yellow" alt="Profile views" /></p>
 
@@ -7,11 +7,11 @@
 <!--   <p>⚡ Fun fact **Oneye 😜**</p>  -->
 </div>
 
-<br><br>
+<br>
 
-<h2 align="left">🛠 &nbsp;Tech Stack</h2>
+<h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
-<div align="left">
+<div align="center">
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -26,7 +26,7 @@
 
 <br>
   
-<h2 align="left">💌 &nbsp;Get in touch ⤵️</h2>
+<h2 align="center">💌 &nbsp;Get in touch ⤵️</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ewerton-ricardo-37791b181/" target="_blank">
@@ -41,7 +41,7 @@
 </p>
 
 <br>
-<H2 align="left">
+<H2 align="center">
   ⚙️  GitHub Analytics
 </h2>
 
