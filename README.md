@@ -40,6 +40,11 @@
   </a>
 </p>
 
+<br>
+<H2 align="center">
+  ⚙️  GitHub Analytics
+</h2>
+
 <div align="center">
   <a href="https://github.com/EwertonRicardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonRicardo&show_icons=true&theme=dracula&count_private=true"/>
