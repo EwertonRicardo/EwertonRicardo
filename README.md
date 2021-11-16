@@ -2,9 +2,8 @@
   <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ewerton Ricardo</h1>
   <p> <img src="https://komarev.com/ghpvc/?username=EwertonRicardo&color=yellow" alt="Profile views" /></p>
 
-  <p>🔥 Sênior Mobile Developer</p>
+  <p>🔥 Senior Mobile Developer</p>
   <p>🔭 I’m currently working at Accenture</p>
-<!--   <p>⚡ Fun fact **Oneye 😜**</p>  -->
 </div>
 
 <br>
