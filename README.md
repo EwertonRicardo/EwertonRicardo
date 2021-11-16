@@ -45,9 +45,9 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/EwertonRicardo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonRicardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonRicardo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/EwertonRicardo" style="display: flex; width: 100%">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EwertonRicardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonRicardo&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
