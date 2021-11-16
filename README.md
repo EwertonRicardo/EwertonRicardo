@@ -29,13 +29,13 @@
 <h2 align="center">💌 &nbsp;Get in touch ⤵️</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ewerton-ricardo-37791b181/">
+  <a href="https://www.linkedin.com/in/ewerton-ricardo-37791b181/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"/>
   </a>
-  <a href="mailto:ewerton.ricardo98@gmail.com">
+  <a href="mailto:ewerton.ricardo98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="mailto:ewerton.ricardo99@hotmail.com">
+  <a href="mailto:ewerton.ricardo99@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
 </div>
