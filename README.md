@@ -44,7 +44,7 @@
   ⚙️  GitHub Analytics
 </h2>
 
-<div align="center" style="display: flex; width: 100%">
+<div align="center">
   
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EwertonRicardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonRicardo&layout=compact&langs_count=7&theme=dracula"/>
