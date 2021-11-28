@@ -3,7 +3,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=EwertonRicardo&color=yellow" alt="Profile views" /></p>
 
   <p>🔥 Senior Mobile Developer</p>
-  <p>🔭 I’m currently working at Accenture</p>
+  <p>🔭 I’m currently working at Accenture, Avanzzada and UsinaHub</p>
 </div>
 
 <br>
